@@ -51,7 +51,7 @@ pip install PyQt6
 ## Run
 
 ```bash
-python main.py
+python Mini_Code_Editor.py
 ```
 
 ## Author
